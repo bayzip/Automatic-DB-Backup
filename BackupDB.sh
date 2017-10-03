@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Masukkan Username Database : "
+echo "Masukkan Username Database: "
 read UserDB
 echo "Masukkan Password Database: "
 read PassDB
